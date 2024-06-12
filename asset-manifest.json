@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/REACT-PORTFOLIO/static/css/main.fe927caf.css",
+    "main.js": "/REACT-PORTFOLIO/static/js/main.23ef8508.js",
+    "static/media/dhabeehullah.jpg": "/REACT-PORTFOLIO/static/media/dhabeehullah.8cc5e4af0ae191be3b6e.jpg",
+    "index.html": "/REACT-PORTFOLIO/index.html",
+    "main.fe927caf.css.map": "/REACT-PORTFOLIO/static/css/main.fe927caf.css.map",
+    "main.23ef8508.js.map": "/REACT-PORTFOLIO/static/js/main.23ef8508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.23ef8508.js"
+  ]
+}
